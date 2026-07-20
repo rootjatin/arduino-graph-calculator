@@ -1,4 +1,4 @@
-# TFT Graphing Calculator for Arduino UNO
+# TFT Graphing Calculator for Arduino UNO with lcd touch screen sheild
 
 A modular Arduino UNO graphing calculator for an MCUFRIEND parallel TFT shield and a 4-wire resistive touchscreen.
 
